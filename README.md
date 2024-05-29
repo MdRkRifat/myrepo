@@ -1,5 +1,5 @@
 # myrepo
-it's my first rhello world its my first repoepo
+it's my first repo
 <br>
-<h1></h1>
+<h1>hello world its my first repo</h1>
 Author - Rkon RIfat
